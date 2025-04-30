@@ -1,2 +1,2 @@
-# programacao-estruturada-ucb-ads
-Alguns projetos da faculdade feitos na lingagem C/C++.
+## programacao-estruturada-ucb-ads
+Algumas atividades da faculdade lingagem C/C++.
